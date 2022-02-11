@@ -2,4 +2,6 @@ baseURL = 'https://bizancio3.github.io/bazaarnazari.blog/'
 languageCode = 'en-us'
 title = 'Embryo for bazaarnazar.blog'
 
-theme = "hugo-clarity"
+
+[params]
+enforceDarkMode = true
